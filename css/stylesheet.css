@@ -1,0 +1,86 @@
+.home{
+    width: 25px;
+}
+
+.primiero {background-color: rgb(204,204,204)}
+.segundo {background-color: rgb(204,204,204)}
+.terceiro {background-color: rgb(204,204,204)}
+.quarto {background-color: rgb(204,204,204)}
+.quinto {background-color: rgb(204,204,204)}
+.sexto {background-color: rgb(204,204,204)}
+.setimo {background-color: rgb(204,204,204)}
+
+.primiero2 {background-color: rgb(177, 168, 168)}
+.segundo2 {background-color: rgb(177, 168, 168)}
+.terceiro2 {background-color: rgb(177, 168, 168)}
+.quarto2 {background-color: rgb(177, 168, 168)}
+
+.primiero3 {background-color: rgb(255, 254, 254)}
+.segundo3 {background-color: rgb(255, 254, 254))}
+.terceiro3 {background-color: rgb(255, 254, 254)}
+.quarto3 {background-color: rgb(255, 254, 254)}
+.quinto3 {background-color: rgb(255, 254, 254)}
+.sexto3 {background-color: rgb(255, 254, 254)}
+.setimo3 {background-color: rgb(255, 254, 254)}
+.oitavo3 {background-color: rgb(255, 254, 254)}
+
+.exemplo3{
+    color: #000000; 
+    font-weight: bold;
+    display: flex;
+}
+.bloco3{
+
+    width: 120px;
+    height: 30px;
+    display: flex;
+    text-align: center;  
+    align-items: center;
+    justify-content: center;  
+}
+.bloco3:hover{
+    
+    background-color: rgb(184, 181, 181);
+    color: rgb(0, 0, 0);
+}
+
+.exemplo{
+    color: #fff; 
+    padding:16px;
+    list-style-type:none;
+    display: flex;
+    
+
+}
+.bloco{
+
+    width: 120px;
+    height: 50px;
+    display: flex;
+    text-align: center;  
+    align-items: center;
+    justify-content: center;  
+}
+.exemplo2{
+    color: #fff; 
+    padding:16px;
+    display: block;
+    list-style-type: none;
+}
+.bloco2{
+    width: 120px;
+    height: 50px;
+    display: list-item;
+   
+    
+}
+.bloco:hover{
+    
+    background-color: rgb(224,27,106);
+    color: rgb(255, 255, 255);
+}
+.bloco2:hover {
+    
+    background-color: rgb(224,27,106);
+    color: rgb(255, 255, 255);
+}

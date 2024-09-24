@@ -1,0 +1,30 @@
+.primiero {background-color: rgb(255, 254, 254)}
+.segundo {background-color: rgb(255, 254, 254))}
+.terceiro {background-color: rgb(255, 254, 254)}
+.quarto {background-color: rgb(255, 254, 254)}
+.quinto {background-color: rgb(255, 254, 254)}
+.sexto {background-color: rgb(255, 254, 254)}
+.setimo {background-color: rgb(255, 254, 254)}
+.oitavo {background-color: rgb(255, 254, 254)}
+
+.exemplo{
+    color: #000000; 
+    font-weight: bold;
+    display: flex;
+}
+.bloco{
+
+    width: 120px;
+    height: 30px;
+    display: flex;
+text-align: center;  
+align-items: center;
+justify-content: center;  
+}
+.bloco:hover{
+    
+    background-color: rgb(184, 181, 181);
+    color: rgb(0, 0, 0);
+}
+
+
